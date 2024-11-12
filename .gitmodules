@@ -1,0 +1,3 @@
+[submodule "recipe-page"]
+	path = recipe-page
+	url = https://github.com/6D-pixel/recipe-page.git
